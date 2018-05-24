@@ -1,0 +1,31 @@
+Ground:
+    color: {r: 128 , g: 128 , b: 128 , a: 255}
+    - position: {x: 1180, y: 1930}
+    - position: {x: -100, y: 955}
+    - position: {x: 0, y: 955}
+    - position: {x: 175, y: 870}
+    - position: {x: 280, y: 915}
+    - position: {x: 445, y: 900}
+    - position: {x: 560, y: 835}
+    - position: {x: 650, y: 865}
+    - position: {x: 840, y: 590}
+    - position: {x: 915, y: 565}
+    - position: {x: 1015, y: 315}
+    - position: {x: 1110, y: 275}
+    - position: {x: 1180, y: 195}
+    - position: {x: 1275, y: 400}
+    - position: {x: 1325, y: 430}
+    - position: {x: 1360, y: 690}
+    - position: {x: 1475, y: 750}
+    - position: {x: 1510, y: 850}
+    - position: {x: 1640, y: 835}
+    - position: {x: 1660, y: 765}
+    - position: {x: 1750, y: 755}
+    - position: {x: 1800, y: 805}
+    - position: {x: 1950, y: 805}
+    - position: {x: 1180, y: 1930}
+Camera:
+    position: {x: 800 , y: 600}
+Ship:
+    position: {x: 400, y: 300}
+    size: {x: 50, y: 100}

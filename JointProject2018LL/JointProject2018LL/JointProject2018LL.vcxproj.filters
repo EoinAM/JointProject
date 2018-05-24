@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\Game.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\UiLibrary.cpp" />
+    <ClCompile Include="src\Xbox360Controller.cpp" />
+    <ClCompile Include="src\GameOverScreen.cpp" />
+    <ClCompile Include="src\Highscores.cpp" />
+    <ClCompile Include="src\LevelLoader.cpp" />
+    <ClCompile Include="src\MainMenu.cpp" />
+    <ClCompile Include="src\ResourceHolder.cpp" />
+    <ClCompile Include="src\Spaceship.cpp" />
+    <ClCompile Include="src\Platform.cpp" />
+    <ClCompile Include="src\Highscores.cpp" />
+    <ClCompile Include="src\Settings.cpp" />
+    <ClCompile Include="src\HelpScreen.cpp" />
+    <ClCompile Include="Flare.cpp" />
+    <ClCompile Include="src\MissionSetUp.cpp" />
+    <ClCompile Include="src\Pause.cpp" />
+    <ClCompile Include="src\MissionSetUp.cpp" />
+    <ClCompile Include="src\Platform.cpp" />
+    <ClCompile Include="src\MissileBase.cpp" />
+    <ClCompile Include="src\HeatSeaker.cpp" />
+    <ClCompile Include="src\HeatSeakerPool.cpp" />
+    <ClCompile Include="HUD.cpp" />
+    <ClCompile Include="src\Animation.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Game.h" />
+    <ClInclude Include="include\Physics.h" />
+    <ClInclude Include="include\UiLibrary.h" />
+    <ClInclude Include="include\Xbox360Controller.h" />
+    <ClInclude Include="include\CollisionDetector.h" />
+    <ClInclude Include="include\GameOverScreen.h" />
+    <ClInclude Include="include\Global.h" />
+    <ClInclude Include="include\tinyc2.h" />
+    <ClInclude Include="include\Tinyc2Debug.hpp" />
+    <ClInclude Include="include\Highscores.h" />
+    <ClInclude Include="include\LevelLoader.h" />
+    <ClInclude Include="include\MainMenu.h" />
+    <ClInclude Include="include\ResourceHolder.h" />
+    <ClInclude Include="include\Spaceship.h" />
+    <ClInclude Include="include\Platform.h" />
+    <ClInclude Include="Flare.h" />
+    <ClInclude Include="include\MissileBase.h" />
+    <ClInclude Include="include\HeatSeaker.h" />
+    <ClInclude Include="include\HeatSeakerPool.h" />
+    <ClInclude Include="include\MissionSetUp.h" />
+    <ClInclude Include="include\Pause.h" />
+    <ClInclude Include="HUD.h" />
+    <ClInclude Include="include\Animation.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Structs.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Highscores.h" />
+    <ClInclude Include="include\Settings.h" />
+    <ClInclude Include="include\HelpScreen.h" />
+    <ClInclude Include="include\MissionSetUp.h" />
+    <ClInclude Include="include\Platform.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ASSETS\YAML\GameData.yaml" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+Textures:
+    - name: sfmlLogo
+      file: ./ASSETS/IMAGES/SFML-LOGO.png
+    - name: tankTexture
+      file: ./ASSETS/IMAGES/SFML-LOGO.png
+    - name: tankTexture
+      file: ./ASSETS/IMAGES/SFML-LOGO.png
+Fonts:
+    - name: ariblk
+      file: ./ASSETS/FONTS/Nasalization.ttf
